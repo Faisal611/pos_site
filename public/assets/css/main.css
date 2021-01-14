@@ -1,0 +1,9 @@
+.new_group a{
+    background: #e9aa0b;
+    border: 1px solid #e9aa0b;
+;
+}
+
+.color_btn.btn.btn-outline-success {
+    margin-bottom: 20px !important;
+}
